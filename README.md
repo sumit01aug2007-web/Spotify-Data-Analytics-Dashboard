@@ -56,3 +56,11 @@ This project demonstrates how Power BI can transform raw music data into meaning
 ## Credits
 
 Project developed as an academic data analytics project using Microsoft Power BI. Learning resources and dataset sources should be credited here.
+## Credits
+
+- **Dashboard Development:** Created using Microsoft Power BI.
+- **Data Visualization:** Microsoft Power BI and DAX.
+- **Dataset:** Spotify dataset from kaggle is used for music data analysis.
+- **Learning Resource:** The Developer, YouTube tutorial: [Spotify Power BI Dashboard Tutorial].
+
+This project was developed for academic purposes as part of a data analytics project. The tutorial was used as a learning and implementation reference.
