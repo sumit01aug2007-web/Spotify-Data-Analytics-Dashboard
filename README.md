@@ -23,7 +23,20 @@ The dashboard provides insights into songs, albums, artists, popularity trends, 
 
 ## Dashboard Preview
 
-![Dashboard Overview](Dashboard-Screenshots/dashboard-overview.png)
+## Dashboard Screenshots
+
+### 1. Dashboard Overview
+![Dashboard Overview](screenshots/Overview.png)
+
+### 2. Artist Analysis
+![Artist Analysis](screenshots/Artist.png)
+
+### 3. Songs Analysis
+![Songs Analysis](screenshots/Songs.png)
+
+### 4. Home Page
+![Home Page](screenshots/home%20page.png)
+
 
 ## Key Dashboard Features
 
